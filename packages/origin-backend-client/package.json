@@ -24,7 +24,7 @@
     "author": "EnergyWeb DevHub GmbH; Piotr Kosinski, piotr.kosinski@energyweb.org",
     "license": "MIT",
     "dependencies": {
-        "axios": "0.24.0"
+        "axios": "1.6.0"
     },
     "devDependencies": {
         "@energyweb/origin-backend": "11.2.0",
